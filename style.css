@@ -1,0 +1,30 @@
+header{
+    background-color: rgb(255, 181, 239);
+    color: rgb(133, 0, 77);
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    text-align: center;
+    padding: 20px;
+}
+
+body{
+    margin: 0%;
+}
+
+.nav{
+    text-align: center;
+}
+
+.calculadora{
+    display: block;
+    text-align: center;
+}
+
+input{
+    margin: 7px;
+}
+
+button{
+    padding: 4px;
+    margin: 10px;
+}
